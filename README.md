@@ -2,6 +2,8 @@
 
 
     Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+    The code given was a game about searching for a treasure within a maze.  The code already introduces the agent, maze, and the treasure that they would need to find.  My part in this code was to create a way for the agent to learn from past tests to make better choices for the next time it tries searching for the treasure.  By using Q-Training algorithm I allowed the agent to give different tests values to the tests and to learn from them.  Since a machine learns faster than a human when it comes to trail and error it would eventually reach a solution quicker.
+    
     Connect your learning from throughout this course to the larger field of computer science:
         What do computer scientists do and why does it matter?
         From what I have learned in this course is that computer scientists use technology to solve different range of problems.  Some of these issues refers to programs that do not run correctly, issues with a certain function, or issues with security for a particular system.  This type of work matters because as technology grows so does the use of the internet.  Since the internet is a big part of society it is important to learn how to use it to create programs as well as learn how to protect systems from attacks when connecting to the network.
