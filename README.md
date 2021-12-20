@@ -1,1 +1,11 @@
 # CS370-Current-Emerging-Trends
+
+
+    Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+    Connect your learning from throughout this course to the larger field of computer science:
+        What do computer scientists do and why does it matter?
+        From what I have learned in this course is that computer scientists use technology to solve different range of problems.  Some of these issues refers to programs that do not run correctly, issues with a certain function, or issues with security for a particular system.  This type of work matters because as technology grows so does the use of the internet.  Since the internet is a big part of society it is important to learn how to use it to create programs as well as learn how to protect systems from attacks when connecting to the network.
+        How do I approach a problem as a computer scientist?
+        How I would approach a problem would be first understanding what it is and if there is any information that lead to it in the first place.  Afterwards I would try to understand what resources are available for me to resolve the problem.  The next thing I would do is break it down into parts and work on each part individually.  If I come across an issue with one I will try different ways of resolving it before moving on to the next.  Once every part has been solved I would put the pieces together to solve the problem.
+        What are my ethical responsibilities to the end user and the organization?
+        The ethical responsibilities of an organization is to make sure that the employees feel welcomed and that everyone is able to accomplish their jobs within the company.  There should always be some rules to follow to ensure that no one is being rude to one another and that the tasks are able to be completed on time with the help of others if needed.  For an end user it is the job of the company to ensure that there is a good relationship between the two and that the end user feels that it can trust the company.  Without the trust of the end users the company will start to lose business and potentially have to shutdown.  That is why it is important to always be in good terms with end users and with fellow employees to accomplish the task at hand.
